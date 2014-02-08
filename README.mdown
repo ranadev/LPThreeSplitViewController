@@ -3,9 +3,9 @@
 LPThreeSplitViewController is custom UISplitViewController with three views (MenuView,ListView,DetailView) for iOS devices. MenuView and DetailView are always visible, ListView visibility can be toggled.
 ViewControllers contains UINavigationController so it's easy to make standard navigation by pushing and poping UIViewControllers.
 
-![](http://lukapenger.eu/GitHub/LPThreeSplitViewController/img1.png)
-![](http://lukapenger.eu/GitHub/LPThreeSplitViewController/img2.png)
-![](http://lukapenger.eu/GitHub/LPThreeSplitViewController/img3.png)
+![ScreenShots](ScreenShots/img1.png)
+![ScreenShots](ScreenShots/img2.png)
+![ScreenShots](ScreenShots/img3.png)
 
 ##Features
 LPThreeSplitViewController works on any iOS version and is compatible with both ARC and non-ARC projects.
