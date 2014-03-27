@@ -61,7 +61,7 @@ We need to set up LPThreeSplitViewControllerDelegate in MenuViewController.h fil
 @interface MenuViewController : UIViewController <UITableViewDataSource,UITableViewDelegate,LPThreeSplitViewControllerDelegate>
 ```
 
-####Delegate methods
+##Delegate methods
 
 ```objective-c
 - (void)LPThreeSplitViewController:(LPThreeSplitViewController *)threeSplitViewController willShowListViewController:(UIViewController*)listViewController;
